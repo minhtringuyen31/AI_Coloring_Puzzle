@@ -1,0 +1,1 @@
+BG_IMAGE = "bg.jpg"
